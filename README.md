@@ -1,3 +1,3 @@
-# Uni
+# Uni-OOP
 
-A repo for Labs and such
+A public repo for OOP Labs
